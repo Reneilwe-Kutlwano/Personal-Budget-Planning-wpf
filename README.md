@@ -53,15 +53,14 @@ In my task 2 I had validated for strings and negative numbers through a try catc
 In my task 2 I did take notice of the fact that my code does have alot of comments and that is not in line with the coding standard, my code was also not clean in terms of structure. In order to fix this, in my task 3 (wpf) I made sure that the structure of my code is clean, there are spaces between sections of code and everything is aligned to the left hand side of the margin. The comments in my code as well have been reduced, with my code sticking to the same naming convention throughout.
 #### ============RUNNING OF THE PROJECT===================
 
-1. Open the one drive link.
-2. Download the file on the one drive.
-3. In the file explorer unzip the zipped file by extracting it.
-4. Open the unzipped file(Reneilwe. Motlhabi. 20111588.POE PROG 6221).
-5. Click the PersonalBudgetPlanning_wpf file to open it.
-6. Select the solution file called PersonalBudgetPlanning_wpf.csproj.
-7. Visual studio 2019 will open now.
-8. Go to the MainWindow.xaml.cs and click the green button called start on the visual studio toolbar to run the program.
-9. The programme start with a welcome page and a start button it will also ask you to input data, all of this needs to be in the form of a decimal number.
+1. Download the zipped file (PersonalBudgetPlanning_wpf.zip)
+2. In the file explorer unzip the zipped file by extracting it.
+3. Open the unzipped file.
+4. Click the PersonalBudgetPlanning_wpf file to open it.
+5. Select the solution file called PersonalBudgetPlanning_wpf.csproj.
+6. Visual studio 2019 will open now.
+7. Go to the MainWindow.xaml.cs and click the green button called start on the visual studio toolbar to run the program.
+8. The programme start with a welcome page and a start button it will also ask you to input data, all of this needs to be in the form of a decimal number.
 #### =============CONTRIBUTORS + SOURCES===================
 
 1. Reneilwe-Kutlwano Motlhabi.
