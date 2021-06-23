@@ -56,9 +56,9 @@ In my task 2 I did take notice of the fact that my code does have alot of commen
 1. Open the one drive link.
 2. Download the file on the one drive.
 3. In the file explorer unzip the zipped file by extracting it.
-4. Unzip the PersonalBudgetPlanning_wpf file by extracting it.
-5. Click the unzipped PersonalBudgetPlanning_wpf file.
-6. Select the solution file called PersonalBudgetPlanning_wpf.
+4. Open the unzipped file(Reneilwe. Motlhabi. 20111588.POE PROG 6221).
+5. Click the PersonalBudgetPlanning_wpf file to open it.
+6. Select the solution file called PersonalBudgetPlanning_wpf.csproj.
 7. Visual studio 2019 will open now.
 8. Go to the MainWindow.xaml.cs and click the green button called start on the visual studio toolbar to run the program.
 9. The programme start with a welcome page and a start button it will also ask you to input data, all of this needs to be in the form of a decimal number.
